@@ -67,7 +67,7 @@ export default function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              href="#" target="_blank">
+              href="https://play.google.com/store/apps/details?id=com.higa.nomuki_switch_app" target="_blank">
               アプリを取得
             </a>
           </div>
